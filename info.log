@@ -1,0 +1,12 @@
+2026-02-17 13:23:01.041 | INFO     | app.main:main_page:35 - Hello from the root path
+2026-02-17 13:23:01.041 | INFO     | app.main:hello_world:41 - hello() called!
+Log: [8ca4b64a-3625-409c-82e6-d4c4c38a2460:2026-02-17T13:31:29.369923+0300 - INFO - Hello from the root path]
+Log: [8ca4b64a-3625-409c-82e6-d4c4c38a2460:2026-02-17T13:31:29.370776+0300 - INFO - hello() called!]
+Log: [8ca4b64a-3625-409c-82e6-d4c4c38a2460:2026-02-17T13:31:29.371943+0300 - INFO - Successfully accessed /dima]
+Log: [d0ebd310-dea9-4de2-8f32-60c432619a92:2026-02-17T13:31:32.733870+0300 - INFO - Successfully accessed /docs]
+Log: [aed68cbd-a20c-4fec-b421-29215995581a:2026-02-17T13:31:33.097793+0300 - INFO - Successfully accessed /openapi.json]
+Log: [fdc93b80-5a10-400f-a491-fd2dd4c9d331:2026-02-17T13:31:33.189069+0300 - INFO - Successfully accessed /docs]
+Log: [a1df9c3e-9ae0-4a7f-a7de-fbee28b4d4d0:2026-02-17T13:31:33.512750+0300 - INFO - Successfully accessed /openapi.json]
+Log: [82d8fa4d-0158-4564-b8a8-a9f8203c2657:2026-02-17T13:31:40.130760+0300 - INFO - Successfully accessed /categories/]
+Log: [17b579d1-32cb-4d2c-b373-e29118de35f5:2026-02-17T13:32:25.607368+0300 - WARNING - Request to /products/2 failed]
+Log: [38a5d0b7-4137-47ba-a7c9-ff1de6a1b967:2026-02-17T13:33:34.054986+0300 - WARNING - Request to /products/2 failed]
